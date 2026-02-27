@@ -30,7 +30,7 @@ GARCH produced the most stable day-to-day forecasts across the 5-day horizon, wh
 
 ### Predicted vs. Realized
 
-![Comparison Chart](images/comparison_chart.png)
+![Comparison Chart](comparison_chart.png)
 
 ## Data
 
